@@ -1,0 +1,10 @@
+{
+  "defaultProject": "nftickets",
+  "projects": {
+    "nftickets": {
+      "name": "nftickets",
+      "integrations": {},
+      "type": "angular"
+    }
+}
+}
