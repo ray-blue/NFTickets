@@ -1,0 +1,12 @@
+{
+  "defaultProject": "nftickets",
+  "projects": {
+    "nftickets": {
+      "name": "nftickets",
+      "integrations": {
+        "cordova": {}
+      },
+      "type": "angular"
+    }
+  }
+}
