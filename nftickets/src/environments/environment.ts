@@ -2,10 +2,11 @@
 // `ng build` replaces `environment.ts` with `environment.prod.ts`.
 // The list of file replacements can be found in `angular.json`.
 
-import { defaultEnv, Env } from './env';
-
-export const environment: Env = {
-  ...defaultEnv
+export const environment = {
+  production: false,
+  wallet: "0x2CdA8249a08797b55D1A1735978e0536C3C190fe",
+  tatumKey: "",
+  transak: ""
 };
 
 /*
